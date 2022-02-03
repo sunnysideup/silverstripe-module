@@ -1,6 +1,6 @@
 {
-    "name": "sunnysideup/skeleton",
-    "description": "A skeleton for SilverStripe modules.",
+    "name": "sunnysideup/module",
+    "description": "A skeleton for SilverStripe modules - for from the Silverstripe one.",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
