@@ -48,7 +48,7 @@ We welcome any contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for more de
 ## Paid assistance
 
 You can pay us to create an improved / adapted version of this module for your own projects.
-Please contact us if you like to find out more: [www.sunnysideup.co.nz](http://www.sunnysideup.co.nz).
+Please contact us if you like to find out more: [www.sunnysideup.co.nz](https://www.sunnysideup.co.nz).
 For example, we can write tests for this module.
 
 ## Author
@@ -57,4 +57,4 @@ Sunny Side Up Ltd.
 
 ## Care to see more modules?
 
-To find other modules, please visit [ssmods.com](http://ssmods.com/).
+To find other modules, please visit [ssmods.com](https://ssmods.com/).
