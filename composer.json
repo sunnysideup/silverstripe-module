@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe-module/skeleton",
+    "name": "sunnysideup/skeleton",
     "description": "skeleton",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -21,6 +21,13 @@
             "client/dist"
         ]
     },
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
