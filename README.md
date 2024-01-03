@@ -24,7 +24,7 @@ See [composer.json](composer.json) for details
 
 ## Installation
 
-```
+```shell
 composer require sunnysideup/skeleton
 ```
 
