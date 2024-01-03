@@ -16,11 +16,11 @@
 
 ## Requirements
 
-See [composer.json](composer.json) for details
+See [composer.json](composer.json) for details.
 
 ### Suggested modules
 
-See [composer.json](composer.json) for details
+See [composer.json](composer.json) for details.
 
 ## Installation
 
@@ -43,7 +43,8 @@ We recommend that you:
 
 ## Contributing
 
-We welcome any contributions. See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+We welcome any contributions.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
 ## Paid assistance
 
@@ -55,6 +56,6 @@ For example, we can write tests for this module.
 
 Sunny Side Up Ltd.
 
-## Care to see more modules?
+## Looking for Silverstripe Modules?
 
 To find other modules, please visit [ssmods.com](https://ssmods.com/).
