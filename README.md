@@ -1,8 +1,8 @@
 # skeleton-fullname
 
-[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-skeleton.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-skeleton)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-skeleton/?branch=master)
-[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-skeleton/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-skeleton?branch=master)
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-pricespy.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-pricespy)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-pricespy/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-pricespy/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-pricespy/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-pricespy?branch=master)
 
 [![Latest Stable Version](https://poser.pugx.org/sunnysideup/skeleton/version)](https://packagist.org/packages/sunnysideup/skeleton)
 [![License](https://poser.pugx.org/sunnysideup/skeleton/license)](https://packagist.org/packages/sunnysideup/skeleton)
