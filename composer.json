@@ -11,6 +11,10 @@
         "silverstripe/framework": "^5.0",
         "silverstripe/admin": "^2.0"
     },
+    "require-dev": {
+        "sunnysideup/sswebpack_engine_only": "dev-master",
+        "silverleague/ideannotator": "*"
+    },
     "autoload": {
         "psr-4": {
             "Sunnysideup\\Skeleton\\": "src/"
@@ -21,6 +25,10 @@
             "client/dist"
         ]
     },
+    "bin": [
+        "bin/sake-npm-build-skeleton.sh",
+        "bin/sake-npm-watch-skeleton.sh"
+    ],
     "authors": [
         {
             "name": "Nicolaas Thiemen Francken",
