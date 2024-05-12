@@ -1,6 +1,6 @@
 {
-    "name": "sunnysideup/skeleton",
-    "description": "skeleton-description",
+    "name": "sunnysideup/foobar",
+    "description": "foobar-description",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sunnysideup\\Skeleton\\": "src/"
+            "Sunnysideup\\FooBar\\": "src/"
         }
     },
     "extra": {
@@ -26,8 +26,8 @@
         ]
     },
     "bin": [
-        "bin/sake-npm-build-skeleton.sh",
-        "bin/sake-npm-watch-skeleton.sh"
+        "bin/sake-npm-build-foobar.sh",
+        "bin/sake-npm-watch-foobar.sh"
     ],
     "authors": [
         {

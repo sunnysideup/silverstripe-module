@@ -1,18 +1,18 @@
-# skeleton-fullname
+# foobar-fullname
 
-[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-pricespy.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-pricespy)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-pricespy/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-pricespy/?branch=master)
-[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-pricespy/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-pricespy?branch=master)
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-foobar.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-foobar)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-foobar/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-foobar/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-foobar/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-foobar?branch=master)
 
-[![Latest Stable Version](https://poser.pugx.org/sunnysideup/skeleton/version)](https://packagist.org/packages/sunnysideup/skeleton)
-[![License](https://poser.pugx.org/sunnysideup/skeleton/license)](https://packagist.org/packages/sunnysideup/skeleton)
-[![Monthly Downloads](https://poser.pugx.org/sunnysideup/skeleton/d/monthly)](https://packagist.org/packages/sunnysideup/skeleton)
+[![Latest Stable Version](https://poser.pugx.org/sunnysideup/foobar/version)](https://packagist.org/packages/sunnysideup/foobar)
+[![License](https://poser.pugx.org/sunnysideup/foobar/license)](https://packagist.org/packages/sunnysideup/foobar)
+[![Monthly Downloads](https://poser.pugx.org/sunnysideup/foobar/d/monthly)](https://packagist.org/packages/sunnysideup/foobar)
 
 ## Documentation
 
 -   [Developer Docs](docs/en/INDEX.md)
 -   [User Guide](docs/en/userguide.md)
--   [API Docs](http://docs.ssmods.com/sunnysideup/skeleton/classes.xhtml)
+-   [API Docs](http://docs.ssmods.com/sunnysideup/foobar/classes.xhtml)
 
 ## Requirements
 
@@ -25,17 +25,17 @@ See [composer.json](composer.json) for details.
 ## Installation
 
 ```shell
-composer require sunnysideup/skeleton
+composer require sunnysideup/foobar
 ```
 
 ### Configuration
 
-In the `_config` folder you will find the `skeleton.yml.example`
+In the `_config` folder you will find the `foobar.yml.example`
 file that shows options for the configuration of this module.
 
 We recommend that you:
 
-1. copy these `skeleton.yml.example` files into your
+1. copy these `foobar.yml.example` files into your
    `app/_config` folder (where available - otherwise search for `private static $` in the module to see what can be configured)
 2. remove the .example extension,
 3. delete the lines you do not care about, and
