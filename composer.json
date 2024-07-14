@@ -32,8 +32,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "bin": [
-        "bin/sake-npm-build-skeleton.sh",
-        "bin/sake-npm-watch-skeleton.sh"
+        "bin/npm-build-skeleton.sh",
+        "bin/npm-watch-skeleton.sh"
     ],
     "authors": [
         {
