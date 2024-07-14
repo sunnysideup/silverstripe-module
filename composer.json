@@ -1,5 +1,5 @@
 {
-    "name": "silverstripe-module/skeleton",
+    "name": "sunnysideup/skeleton",
     "description": "A skeleton for Silverstripe CMS modules.",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -21,8 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SilverStripeModule\\Skeleton\\": "src/",
-            "SilverStripeModule\\Skeleton\\Tests\\": "tests/php/"
+            "Sunnysideup\\Skeleton\\": "src/"
         }
     },
     "extra": {
@@ -31,5 +30,16 @@
         ]
     },
     "minimum-stability": "dev",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "bin": [
+        "bin/sake-npm-build-skeleton.sh",
+        "bin/sake-npm-watch-skeleton.sh"
+    ],
+    "authors": [
+        {
+            "name": "Nicolaas Thiemen Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ]
 }
