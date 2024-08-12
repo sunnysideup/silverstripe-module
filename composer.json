@@ -1,6 +1,6 @@
 {
     "name": "sunnysideup/foobar",
-    "description": "A skeleton for Silverstripe CMS modules.",
+    "description": "A FooBar for Silverstripe CMS modules.",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
