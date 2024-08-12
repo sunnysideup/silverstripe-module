@@ -1,6 +1,6 @@
 <?php
 
-namespace Sunnysideup\Skeleton;
+namespace Sunnysideup\FooBar;
 
 class ExampleClass
 {
