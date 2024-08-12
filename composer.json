@@ -1,5 +1,5 @@
 {
-    "name": "sunnysideup/skeleton",
+    "name": "sunnysideup/foobar",
     "description": "A skeleton for Silverstripe CMS modules.",
     "type": "silverstripe-vendormodule",
     "keywords": [
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Sunnysideup\\Skeleton\\": "src/"
+            "Sunnysideup\\FooBar\\": "src/"
         }
     },
     "extra": {
@@ -32,8 +32,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "bin": [
-        "bin/npm-build-skeleton.sh",
-        "bin/npm-watch-skeleton.sh"
+        "bin/npm-build-foobar.sh",
+        "bin/npm-watch-foobar.sh"
     ],
     "authors": [
         {
