@@ -1,9 +1,9 @@
 {
     "name": "sunnysideup/foobar",
-    "description": "A FooBar for Silverstripe CMS modules.",
+    "description": "foobar-description",
     "type": "silverstripe-vendormodule",
     "keywords": [
-        "silverstripe",
+        "Silverstripe",
         "CMS"
     ],
     "license": "BSD-3-Clause",
