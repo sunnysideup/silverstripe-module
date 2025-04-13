@@ -32,8 +32,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "bin": [
-        "bin/npm-build-foobar.sh",
-        "bin/npm-watch-foobar.sh"
+        "bin/aske-npm-build-foobar.sh",
+        "bin/sake-npm-watch-foobar.sh"
     ],
     "authors": [
         {
