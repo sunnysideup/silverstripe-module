@@ -32,7 +32,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "bin": [
-        "bin/aske-npm-build-foobar.sh",
+        "bin/sake-npm-build-foobar.sh",
         "bin/sake-npm-watch-foobar.sh"
     ],
     "authors": [
