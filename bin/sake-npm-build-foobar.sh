@@ -6,7 +6,6 @@ nvm use node
 echo '------------------------------'
 echo ' run build'
 echo '------------------------------'
-cd themes/sswebpack_engine_only/
-npm install
-npm run watch --theme_dir=vendor/sunnysideup/foobar/client --include_jquery=no
+vendor/bin/webpack install vendor/sunnysideup/foobar/client
+vendor/bin/webpack build vendor/sunnysideup/foobar/client --no-jquery
 echo '------------------------------'
